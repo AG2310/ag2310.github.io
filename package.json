@@ -1,0 +1,17 @@
+{
+  "name": "ag2310.github.io",
+  "version": "1.0.0",
+  "description": "ag2310 website",
+  "main": "index.html",
+  "repository": "git@github.com:AG2310/ag2310.github.io.git",
+  "author": "Alexey Gorshkov <agorshkov23@mail.ru>",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
